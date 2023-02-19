@@ -1,4 +1,4 @@
-module https://github.com/mjoffsec/mjgetter
+module github.com/mjoffsec/mjgetter
 
 go 1.18
 
